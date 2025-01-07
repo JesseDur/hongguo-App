@@ -22,6 +22,17 @@
 
 迈特科技在2023年初就一直从事短剧项目的服务，从抖音/微信/快手小程序/APP再到现在的红果短剧APP，我们积累了大量的短剧经验      剧我们的穿山甲短剧APP上线到现在已有2个月，来看一下我们支持了哪些功能以及更新。
 
+![image](https://github.com/user-attachments/assets/e6de96c6-e7c9-4a60-ad0a-ea53c46fe515)
+
+![image](https://github.com/user-attachments/assets/9ed14f0b-249d-4700-9b2f-190801a0aaee)
+
+![image](https://github.com/user-attachments/assets/ecd9f096-505a-4086-9adf-43a2698dbd52)
+
+![image](https://github.com/user-attachments/assets/9f3f1ed1-5bd5-4562-8244-4c4133a12e6e)
+
+![image](https://github.com/user-attachments/assets/61b93cf4-7c0b-4017-9b7b-0f934b4718f1)
+
+![image](https://github.com/user-attachments/assets/fde8b919-9bcc-4f06-b969-256c4b04f2ca)
 
 
 
@@ -57,3 +68,5 @@
 
 联系我们
 联系V：maite818，发送App安装包及后台演示站
+
+![image](https://github.com/user-attachments/assets/af0c8fdb-3968-4b48-be29-876e8b12cded)
